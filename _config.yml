@@ -70,4 +70,3 @@ theme: landscape
 deploy: 
   type: github
   repo: https://github.com/zhangmeteor/lovejoyce.github.io.git 
-  branch: master
